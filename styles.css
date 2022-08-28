@@ -1,92 +1,97 @@
 
 body {
-font-family: 'Signika', sans-serif;
-background-color: rgb(248, 245, 245)
-}
-#how_to {
-  font-family: 'Luckiest Guy', cursive;
-  font-size: 35px;
+  font-family: 'Signika', sans-serif;
+  background-color: rgb(248, 245, 245)
+  }
+  #how_to {
+    font-family: 'Luckiest Guy', cursive;
+    font-size: 35px;
+    text-align: center;
+    margin-bottom: 1px;
+    color: rgb(180, 194, 188)
+  }
+  #title {
+    font-family: 'Luckiest Guy', cursive;
+    color: rgb(140, 140, 182);
+    font-size: 98px;
+    text-align: center;
+    margin-top: 1px;
+    margin-bottom: 1px;
+  }
+  #img {
+    border-radius: 30px;
+    margin-top: 1px;
+    height: auto;
+    display: block;
+    max-width: 100%;
+  }
+  #img, #img-div{
+    margin:auto;
+    width:50%;
+  }
+
+  #info {
+    text-align: center;
+    background-color: rgb(221,226, 221);
+    padding: 5px;
+    border-radius: 30px;
+    margin-left: 30%;
+    margin-right: 30%;
+  }
+  #img_caption{
+    text-align: center;
+  }
+  #Ingredients {
+    background-color: rgb(221,226, 221);
+    border-radius: 30px;
+    padding-bottom: 5px;
+    padding-top: 10px;
+  }
+  #ingred_title {
+    text-align: center;
+    padding: 10px;
+    background-color: rgb(248, 245, 245);
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 1px;
+    margin-bottom: 1px;
+    border-radius: 30px;
+  }
+  #list {
+    background-color: rgb(180, 194, 188);
+    border-radius: 30px;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  #methods {
+    background-color: rgb(221,226, 221);
+    border-radius: 30px;
+    padding:25px;
+    padding-top:10px;
+    padding-bottom: 10px;
+    margin-top: 10px;
+  }
+  #mettitle {
   text-align: center;
-  margin-bottom: 1px;
-  color: rgb(180, 194, 188)
-}
-#title {
-  font-family: 'Luckiest Guy', cursive;
-  color: rgb(140, 140, 182);
-  font-size: 98px;
-  text-align: center;
-  margin-top: 1px;
-  margin-bottom: 1px;
-}
-#image {
-  border-radius: 30px;
-  margin-top: 1px;
-  height: auto;
-  display: block;
-  max-width: 100%;
-}
-#img-div{
-  margin-left:auto;
-  margin-right:auto;
-}
-#info {
-  text-align: center;
-  background-color: rgb(221,226, 221);
-  padding: 5px;
-  border-radius: 30px;
-  margin-left: 30%;
-  margin-right: 30%;
-}
-#Ingredients {
-  background-color: rgb(221,226, 221);
-  border-radius: 30px;
-  padding-bottom: 5px;
-  padding-top: 10px;
-}
-#ingred_title {
-  text-align: center;
-  padding: 10px;
   background-color: rgb(248, 245, 245);
-  margin-left: 200px;
-  margin-right: 200px;
-  margin-top: 1px;
-  margin-bottom: 1px;
   border-radius: 30px;
-}
-#list {
-  background-color: rgb(180, 194, 188);
-  border-radius: 30px;
-  margin-left: 25px;
-  margin-right: 25px;
-  margin-top: 10px;
-  padding-top: 10px;
-  padding-bottom: 10px;
-}
-#methods {
-  background-color: rgb(221,226, 221);
-  border-radius: 30px;
-  padding:25px;
-  padding-top:10px;
-  padding-bottom: 10px;
-  margin-top: 10px;
-}
-#mettitle {
-text-align: center;
-background-color: rgb(248, 245, 245);
-border-radius: 30px;
-margin-left: 190px;
-margin-right: 190px;
-padding: 10px;
-margin-top:1px;
-margin-bottom: 10px;
-}
-#step1, #step2, #step3 {
-  background-color:rgb(180, 194, 188);
-  border-radius: 30px;
-  padding-left: 15px;
-  padding-top: 1px;
-  padding-right: 15px;
-  padding-bottom: 5px;
-  margin-top: 10px;
+  margin-left: 190px;
+  margin-right: 190px;
+  padding: 10px;
+  margin-top:1px;
   margin-bottom: 10px;
-}
+  }
+  #step1, #step2, #step3 {
+    background-color:rgb(180, 194, 188);
+    border-radius: 30px;
+    padding-left: 15px;
+    padding-top: 1px;
+    padding-right: 15px;
+    padding-bottom: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  
