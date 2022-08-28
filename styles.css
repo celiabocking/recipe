@@ -24,8 +24,10 @@ background-color: rgb(248, 245, 245)
   height: auto;
   display: block;
   max-width: 100%;
- 
-
+}
+#img-div{
+  margin:auto;
+  width:50%;
 }
 #info {
   text-align: center;
